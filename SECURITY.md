@@ -1,5 +1,5 @@
 # Security Policy
-Only allow the filenames matching the glob "!({*})" (i.e. do not allow any files added/deleted/modified)
+"!({*})"
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
