@@ -3,5 +3,4 @@
 # ntp server: NIST time-d-wwv.nist.gov, Fort Collins, CO.
 
 httpd_port: 80
-ntpserver: 132.163.97.4
-repository: https://github.com/ChaturvediSulabh/mywebapp.git
+ntpserver: 132.163.97.5
